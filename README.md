@@ -1,4 +1,4 @@
-![E-Commerce Sales Prediction](images/kc_house_analysis.png)
+![E-Commerce Sales Prediction](images/Bespoke_Homepage.jpg)
 #  Regression modeling to analyze E-Commerce Sales Prediction for Bespoke Aquariums
 
 **Author**: Bijal Saija

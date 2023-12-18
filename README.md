@@ -68,7 +68,7 @@ Describe the structure of your repository and its contents, for example:
 ```
 ├── README.md                                                <- The top-level README for reviewers of this project
 ├── bespoke_sales_prediction.ipynb                           <- Narrative documentation of analysis in Jupyter notebook
-├── capstone_project.pdf                                     <- PDF version of project presentation
+├── Bespoke_sales_prediction_presentation.pdf                <- PDF version of project presentation
 ├── data                                                     <- Data repositories sourced externally
 └── images                                                   <- Both sourced externally and generated from code
 ```
